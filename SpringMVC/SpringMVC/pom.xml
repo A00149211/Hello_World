@@ -50,4 +50,11 @@
             </plugins>
         </pluginManagement>
     </build>
+	<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>artifactory-releases</name>
+        <url>http://34.250.185.131:8082/artifactory/pipeline-libs-release</url>
+    </repository>
+</distributionManagement>
 </project>
