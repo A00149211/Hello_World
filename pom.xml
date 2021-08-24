@@ -50,4 +50,11 @@
             </plugins>
         </pluginManagement>
     </build>
+	<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>artifactory-snapshots</name>
+        <url>http://34.250.185.131:8082/artifactory/pipeline-libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
