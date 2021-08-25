@@ -3,6 +3,6 @@
 <title>Error</title>
 </head>
 <body>
-    "Hello, my name is Mary 22"
+    "Hello, my name is Mary"
 </body>
 </html>
